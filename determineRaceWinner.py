@@ -1,3 +1,6 @@
+#This program prompts a user to enter the names and finish times of three competitors in a race. 
+#Based on the finish times, the program will then determine and print who won the gold, silver, and bronze medals.
+
 #prompt user for name and time of first competitor
 comp1 = input("Enter the name of the first competitor: ")
 time1 = int(input("Enter the finish time of the first competitor (greater than zero): "))
