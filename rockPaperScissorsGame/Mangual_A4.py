@@ -1,6 +1,6 @@
 """
-Homework #4
-Raquel Mangual
+This is a game of rock, paper, scissors where the user plays against the program.
+I created a module to randomly select the program's choice against the player, and to determine the winner of a round.
 """
 
 #Import the gamefunctions module
