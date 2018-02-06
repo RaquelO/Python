@@ -7,7 +7,7 @@ year = int(input("Enter the year (greater than 1000): "))
 if month > 12 or month < 1 : #validate user input for month
     print("The month you entered is outside of the acceptable range.")
     print("The program has ended.")
-elif year <1000 : #validate user in put for year
+elif year <1000 : #validate user input for year
     print("The year you entered is outside of the acceptable range.")
     print("The program has ended.")
 else :
