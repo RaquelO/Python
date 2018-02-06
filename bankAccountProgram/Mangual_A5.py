@@ -1,6 +1,6 @@
 """
-Homework #5 - bank account program
-created by Raquel Mangual
+This program reads two text files, one containing a list of deposits to a bank account and the other containing a list of withdrawals. 
+The program then prints the balance of the account.
 """
 
 #Open the files containing the deposits and withdrawals in read only mode
