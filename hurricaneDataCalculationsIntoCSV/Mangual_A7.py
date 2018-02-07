@@ -1,3 +1,7 @@
+#This programs reads a supplied text file, hurricanes.txt, that contains monthly rainfall data for six years.
+#Program reads the data from this text file to generate a CSV file which calculates
+#and displays the average for the month across all six years.
+
 #Open the provided file
 stormData = open("hurricanes.txt", "r")
 
