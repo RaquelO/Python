@@ -1,3 +1,5 @@
+#This program uses a class to create a program that can convert a Fahrenheit temperature to Celsius and Kelvin.
+
 #import the Temperature class module
 from converter import Temperature
 
