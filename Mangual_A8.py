@@ -1,6 +1,9 @@
-#Raquel Mangual - Assignment #8 - Morse Code Translator
+#This program prompts the user to enter words or a phrase, then prints the user’s input translated into Morse code. 
+#Uses periods for “dots” and hyphens for “dashes”. The program utilizes a dictionary for the conversion/translation.
+#Places one space between each “letter” printed in Morse code; Places two spaces between each “word” printed in Morse code. 
+#Uppercase and lowercase letters are treated equally.
 
-#create the morse code dictionary, last entry will insert two spaces between each word in the translation
+#create the morse code dictionary as requied, add last entry that will insert two spaces between each word in the translation
 morseCode = {"A":".-", "H":"....", "O":"---", "V":"...-",
              "B":"-...", "I":"..", "P":".--.", "W":".--",
              "C":"-.-.", "J":".---", "Q":"--.-", "X":"-..-",
