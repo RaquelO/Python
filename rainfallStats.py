@@ -1,6 +1,11 @@
 """
-Assignment #6 - Rainfall Amounts
-created by Raquel Mangual
+This program prompts the user to enter rainfall amounts (in inches) for 12 months of one year. The values are stored into a list.
+Using the list created, the program will print out:
+• The total rainfall
+• The average monthly rainfall (Rounded to two decimal places.)
+• The month with the most rain
+• The month with the least rain
+If the user enters a negative number for a month, user is prompted to re-enter a non-negative value for the month.
 """
 
 #create an empty list
