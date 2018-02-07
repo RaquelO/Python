@@ -1,8 +1,8 @@
 """
 This graphical program allows the user to enter an amount for a bill, select a tip percentage
 and calculate the total amount due including the tip.
-
 """
+
 #Import the tkinter module
 import tkinter
 
